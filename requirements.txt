@@ -1,0 +1,11 @@
+beaupy==3.5.3
+certifi==2022.12.7
+charset-normalizer==3.1.0
+commonmark==0.9.1
+emoji==2.2.0
+idna==3.4
+Pygments==2.15.1
+python-yakh==0.3.1
+requests==2.29.0
+rich==12.6.0
+urllib3==1.26.15
