@@ -6,6 +6,6 @@ emoji==2.2.0
 idna==3.4
 Pygments==2.15.1
 python-yakh==0.3.1
-requests==2.29.0
+requests==2.31.0
 rich==12.6.0
 urllib3==1.26.15
